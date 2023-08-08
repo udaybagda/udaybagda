@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋 I'm Uday Bagda</h1>
-<h3 align="center">A passionate developer working on MERN stack</h3>
+<h1>Hi 👋 </h1>
+<h3>I'm Uday Bagda</h3>
+<h3>A passionate developer working on MERN stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udaybagda&label=Profile%20views&color=0e75b6&style=flat" alt="udaybagda" /> </p>
 
