@@ -1,12 +1,13 @@
-<h1>Hi 👋 </h1>
+<h3>Hi 👋 </h3>
 <h3>I'm Uday Bagda</h3>
-<h3>A passionate developer working on MERN stack</h3>
+
+
+- A passionate developer working on MERN stack
+- 🌱 I’m currently learning **Backend Development**
+- 📫 How to reach me **bagdauday2@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udaybagda&label=Profile%20views&color=0e75b6&style=flat" alt="udaybagda" /> </p>
 
-- 🌱 I’m currently learning **Backend Development**
-
-- 📫 How to reach me **bagdauday2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
